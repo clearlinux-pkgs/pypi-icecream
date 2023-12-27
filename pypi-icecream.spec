@@ -5,7 +5,7 @@
 #
 Name     : pypi-icecream
 Version  : 2.1.3
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/1c/8b/ae6ebc9fc423f9397a0982990c86f1fe94077df729ef452c9a847fb16ae6/icecream-2.1.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1c/8b/ae6ebc9fc423f9397a0982990c86f1fe94077df729ef452c9a847fb16ae6/icecream-2.1.3.tar.gz
 Summary  : Never use print() to debug again; inspect variables, expressions, and program execution with a single, simple function call.
